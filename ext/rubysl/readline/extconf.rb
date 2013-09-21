@@ -84,4 +84,4 @@ have_readline_macro("RL_PROMPT_START_IGNORE")
 have_readline_macro("RL_PROMPT_END_IGNORE")
 
 create_header
-create_makefile("readline")
+create_makefile("readline/readline")
